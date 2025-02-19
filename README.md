@@ -12,7 +12,7 @@ Minigrep is a basic command-line tool written in Rust that mimics the functional
 
 ### **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/minigrep.git
+git clone https://github.com/maheshbsl/minigrep.git
 cd minigrep
 
 
